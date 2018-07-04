@@ -1,0 +1,2 @@
+For n = 32000
+The running time is 1 ms and the result that the Multiply method returns is 0.

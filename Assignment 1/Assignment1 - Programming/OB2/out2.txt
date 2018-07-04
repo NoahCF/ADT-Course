@@ -1,0 +1,2 @@
+For n = 25000
+The running time for this tail recursive method is 1 ms and the result that the Multiply method returns is 0.
